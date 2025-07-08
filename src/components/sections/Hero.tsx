@@ -94,7 +94,7 @@ export const Hero = () => {
               custom={0}
             >
               <span className="inline-block px-4 py-2 mb-6 text-sm font-medium text-blue-600 bg-blue-100 rounded-full dark:bg-blue-900 dark:text-blue-300">
-                👋 ¡Hola! Soy
+                👋 ¡Hola! Soy 
               </span>
             </motion.div>
             
